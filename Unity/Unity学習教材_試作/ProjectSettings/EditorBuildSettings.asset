@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Menu.unity
+    guid: d3395e03495631d44add2b6242c450b4
+  - enabled: 1
+    path: Assets/Scene/Transform.Translate1.unity
+    guid: f02ff4715325cc34c9f71406088c86aa
+  - enabled: 1
+    path: Assets/Scene/Transform.Translate2.unity
+    guid: 3cf4746ed413a564886d07adc5bd2792
+  - enabled: 1
+    path: Assets/Scene/Explanation.unity
+    guid: 586f4dd577ba4ba4490e525b85614608
